@@ -1,0 +1,5 @@
+# failure test
+GT4500,2,1,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+
