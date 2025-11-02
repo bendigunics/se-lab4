@@ -1,0 +1,5 @@
+# a GT4500 ha csak secondary elerheto input
+GT4500,0,0,2,0
+TORPEDO,SINGLE  # should have fired from the secondary store
+TORPEDO,SINGLE
+TORPEDO,SINGLE
